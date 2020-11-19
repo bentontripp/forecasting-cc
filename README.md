@@ -1,4 +1,4 @@
-Forecasting for a Call Center has proven to be more complex than I first thought - and my methods continue to develop and change as more information becomes available.
+Forecasting for a Call Center has proven to be more complex than I first thought - and my methods continue to develop and change as I learn or find new ideas.
 
 For example, something that I would like to implement eventually are a few additional variables in my random forest regression model: number of letters sent to customers, days since letters were last sent, and number of active member accounts.
 
